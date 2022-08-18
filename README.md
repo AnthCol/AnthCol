@@ -5,7 +5,8 @@ You can click the Preview link to take a look at your changes.
 
 ## Welcome!
 <p>
-I am a computer science student at the University of Guelph (set to graduate 2024)
+
+My name is Anthony Colaiacovo and I am a computer science student at the University of Guelph (set to graduate 2024).
 
 ### My LinkedIn
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anthony-colaiacovo-876a061a0/" target="blank">
