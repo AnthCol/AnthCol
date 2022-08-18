@@ -23,13 +23,5 @@ I am a computer science student at the University of Guelph (set to graduate 202
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 <br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anthcol&show_icons=true&locale=en" alt="anthcol" /></p>
-
-
-
-
-
-
-
-
+<!--- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anthcol&show_icons=true&locale=en" alt="anthcol" /></p> --->
 
