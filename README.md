@@ -22,6 +22,5 @@ I am a computer science student at the University of Guelph (set to graduate 202
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <br><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
-<br>
 <!--- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anthcol&show_icons=true&locale=en" alt="anthcol" /></p> --->
 
