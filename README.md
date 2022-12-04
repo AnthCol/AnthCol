@@ -15,7 +15,7 @@ My name is Anthony Colaiacovo and I am a computer science student at the Univers
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<b>Languages: </b> C/C++, Java, HTML, CSS, Python, Bash <br>
-<b>Tools: </b> Git, Linux, Valgrind, Gradle, Docker
+<b>Languages: </b> C, C++, Java, HTML, CSS, Python, Shell <br>
+<b>Tools: </b> Git, Linux, Valgrind, JUnit, Gradle, Docker
 </p>
 
