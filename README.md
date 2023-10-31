@@ -16,7 +16,7 @@ My name is Anthony Colaiacovo and I am a computer science student at the Univers
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <b>Languages: </b> C, C++, Python, Java, JavaScript, Objective-C, SQL, Bash<br>
-<b>Technologies: </b> CUDA, OpenCL, Metal, jQuery<br>
+<b>Technologies: </b> CUDA, OpenCL, Metal, OpenMP, OpenMPI, jQuery<br>
 <b>Tools: </b> Git, Linux, Valgrind, GNU Make, JUnit, Gradle, Docker<br>
 </p>
 
