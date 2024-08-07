@@ -27,11 +27,44 @@ You can click the Preview link to take a look at your changes.
 
 <table>
   <tr>
-    <td>Row 1, Cell 1</td>
-    <td>Row 1, Cell 2</td>
+    <td>Languages</td>
+    <td>C++, C, Python, Java, JavaScript, Objective-C, SQL, Bash, Metal Shading Language, GLSL</td>
   </tr>
   <tr>
-    <td>Row 2, Cell 1</td>
-    <td>Row 2, Cell 2</td>
+    <td>Parallelism</td>
+    <td>CUDA, OpenCL, OpenMP, Metal, POSIX Threads, OpenMPI</td>
   </tr>
+    <tr>
+    <td>Databases</td>
+    <td>SQLite3/td>
+  </tr>  
+  <tr>
+    <td>Build Tools</td>
+    <td>CMake, Gradle, Maven, Makefile, SCons</td>
+  </tr>  
+  <tr>
+    <td>Version</td>
+    <td>Git, GitHub, GitLab</td>
+  </tr>  
+  <tr>
+    <td>Unit Testing</td>
+    <td>Pytest, JUnit</td>
+  </tr>  
+  <tr>
+    <td>GUI APIs</td>
+    <td>Tkinter, Java Swing</td>
+  </tr>  
+  <tr>
+    <td>Debugging Tools</td>
+    <td>Valgrind, GDB</td>
+  </tr>  
+  <tr>
+    <td>Operating Systems</td>
+    <td>Linux, Windows, MacOS</td>
+  </tr>  
+  <tr>
+    <td>Other</td>
+    <td>Docker, jQuery, Spring, SWIG, Beautiful Soup, Motorola 68k</td>
+  </tr>  
+
 </table>
