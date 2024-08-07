@@ -13,15 +13,15 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Everything I have ever worked with:</h3>
 <p align="left"> 
-Languages:           C++, C, Python, Java, JavaScript, Objective-C, SQL, Bash, Metal Shading Language, GLSL <br>
-Parallelism:         CUDA, OpenCL, OpenMP, Metal, POSIX Threads, OpenMPI <br>
-Databases:           SQLite3 <br>
-Build Tools:         CMake, Gradle, Maven, Makefile, SCons <br>
-Unit Testing:        Pytest, JUnit <br>
-GUI APIs:            Tkinter, Java Swing <br>
-Debugging Tools:     Valgrind, GDB <br>
-Operating Systems:   Linux, Windows, MacOS <br>
-Version Control:     Git, GitHub, GitLab <br>
-Other:               Docker, jQuery, Spring, SWIG, Beautiful Soup, Motorola 68k <br>
+<b>Languages:</b>           C++, C, Python, Java, JavaScript, Objective-C, SQL, Bash, Metal Shading Language, GLSL <br>
+<b>Parallelism:</b>         CUDA, OpenCL, OpenMP, Metal, POSIX Threads, OpenMPI <br>
+<b>Databases:</b>           SQLite3 <br>
+<b>Build Tools:</b>         CMake, Gradle, Maven, Makefile, SCons <br>
+<b>Version Control:</b>     Git, GitHub, GitLab <br>
+<b>Unit Testing:</b>        Pytest, JUnit <br>
+<b>GUI APIs:</b>            Tkinter, Java Swing <br>
+<b>Debugging Tools:</b>     Valgrind, GDB <br>
+<b>Operating Systems:</b>   Linux, Windows, MacOS <br>
+<b>Other:</b>               Docker, jQuery, Spring, SWIG, Beautiful Soup, Motorola 68k <br>
 </p>
 
