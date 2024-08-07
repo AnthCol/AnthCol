@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Everything I have ever worked with:</h3>
 <p style="font-family: Courier, sans-serif" align="left"> 
-<b>Languages:</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; C++, C, Python, Java, JavaScript, Objective-C, SQL, Bash, Metal Shading Language, GLSL <br>
+<b>Languages:</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C++, C, Python, Java, JavaScript, Objective-C, SQL, Bash, Metal Shading Language, GLSL <br>
 <b>Parallelism:</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CUDA, OpenCL, OpenMP, Metal, POSIX Threads, OpenMPI <br>
 <b>Databases:</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SQLite3 <br>
 <b>Build Tools:</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CMake, Gradle, Maven, Makefile, SCons <br>
