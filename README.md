@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
   </tr>
     <tr>
     <td>Databases</td>
-    <td>SQLite3/td>
+    <td>SQLite3</td>
   </tr>  
   <tr>
     <td>Build Tools</td>
