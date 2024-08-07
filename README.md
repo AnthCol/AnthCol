@@ -25,3 +25,13 @@ You can click the Preview link to take a look at your changes.
 <b>Other:</b> Docker, jQuery, Spring, SWIG, Beautiful Soup, Motorola 68k <br><br>
 </p>
 
+<table>
+  <tr>
+    <td>Row 1, Cell 1</td>
+    <td>Row 1, Cell 2</td>
+  </tr>
+  <tr>
+    <td>Row 2, Cell 1</td>
+    <td>Row 2, Cell 2</td>
+  </tr>
+</table>
