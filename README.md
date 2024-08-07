@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <h3 align="left">Everything I have ever worked with:</h3>
-<p style="font-family: Courier New" align="left"> 
+<p style="font-family: 'Courier New', Courier, monospace; align="left"> 
 <b>Languages:</b> C++, C, Python, Java, JavaScript, Objective-C, SQL, Bash, Metal Shading Language, GLSL <br><br>
 <b>Parallelism:</b> CUDA, OpenCL, OpenMP, Metal, POSIX Threads, OpenMPI <br><br>
 <b>Databases:</b> SQLite3 <br><br>
