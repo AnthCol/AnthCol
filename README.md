@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
     <td>CMake, Gradle, Maven, Makefile, SCons</td>
   </tr>  
   <tr>
-    <td>Version</td>
+    <td>Version Control</td>
     <td>Git, GitHub, GitLab</td>
   </tr>  
   <tr>
