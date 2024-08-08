@@ -44,11 +44,11 @@ You can click the Preview link to take a look at your changes.
   </tr>  
   <tr>
     <td>Debugging Tools</td>
-    <td>Valgrind, GDB</td>
+    <td>Valgrind, GDB, Oclgrind</td>
   </tr>  
   <tr>
     <td>Operating Systems</td>
-    <td>Linux, Windows, MacOS</td>
+    <td>Linux (Ubuntu, Debian, OpenSUSE-Tumbleweed), Windows, MacOS</td>
   </tr>  
   <tr>
     <td>Other</td>
