@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
   </tr>  
   <tr>
     <td> IDEs </td>
-    <td> VSCode, Visual Studio, Xcode </td>
+    <td> VS Code, Visual Studio, Xcode </td>
   </tr>
   <tr>
     <td>Other</td>
