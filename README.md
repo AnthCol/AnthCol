@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
     <td>Git, GitHub, GitLab</td>
   </tr>  
   <tr>
-    <td>Development Methodologies</td>
+    <td>Methodologies</td>
     <td>Agile</td>
   </tr>
   <tr>
