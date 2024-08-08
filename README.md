@@ -51,6 +51,10 @@ You can click the Preview link to take a look at your changes.
     <td>Linux (Ubuntu, Debian, OpenSUSE-Tumbleweed), Windows, MacOS</td>
   </tr>  
   <tr>
+    <td> IDEs </td>
+    <td> VSCode, Visual Studio, Xcode </td>
+  </tr>
+  <tr>
     <td>Other</td>
     <td>Docker, jQuery, Spring, SWIG, Beautiful Soup, Motorola 68k</td>
   </tr>  
