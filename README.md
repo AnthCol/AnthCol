@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <table>
   <tr>
     <td>Languages</td>
-    <td>C++, C, Python, Java, JavaScript, Objective-C, SQL, Bash, Metal Shading Language, GLSL</td>
+    <td>C++, C, Python, Java, JavaScript, Objective-C, SQL, Bash, Metal Shading Language, GLSL, R</td>
   </tr>
   <tr>
     <td>Parallelism</td>
@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
   </tr>
   <tr>
     <td>Other</td>
-    <td>Docker, jQuery, Spring, SWIG, Beautiful Soup, Motorola 68k</td>
+    <td>Docker, jQuery, Spring, SWIG, Slurm, Beautiful Soup, Motorola 68k</td>
   </tr>  
 
 </table>
