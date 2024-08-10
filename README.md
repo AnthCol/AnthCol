@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
   </tr>
   <tr>
     <td>Other</td>
-    <td>Docker, jQuery, Spring, SWIG, Slurm, Beautiful Soup, OpenCV, Matplotlib, Numpy, Motorola 68k</td>
+    <td>Docker, jQuery, Spring, HTML, CSS, SWIG, Slurm, Beautiful Soup, OpenCV, Matplotlib, Numpy, Motorola 68k</td>
   </tr>  
 
 </table>
