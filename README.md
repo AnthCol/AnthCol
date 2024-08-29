@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
   </tr>  
   <tr>
     <td>GUI APIs</td>
-    <td>Tkinter, Java Swing</td>
+    <td>Tkinter, Swing</td>
   </tr>  
   <tr>
     <td>Debugging Tools</td>
@@ -58,9 +58,14 @@ You can click the Preview link to take a look at your changes.
     <td> IDEs </td>
     <td> VS Code, Visual Studio, Xcode </td>
   </tr>
+    <tr>
+    <td>Libraries</td>
+    <td>OpenCV, jQuery, Spring, Beautiful Soup, Matplotlib, Numpy</td>
+  </tr>
   <tr>
     <td>Other</td>
-    <td>Docker, jQuery, Spring, HTML, CSS, SWIG, Slurm, Beautiful Soup, OpenCV, Matplotlib, Numpy, Motorola 68k</td>
+    <td>Docker, HTML, CSS, SWIG, Slurm, Motorola 68k</td>
   </tr>  
+
 
 </table>
