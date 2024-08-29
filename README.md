@@ -39,8 +39,8 @@ You can click the Preview link to take a look at your changes.
     <td>Agile</td>
   </tr>
   <tr>
-    <td>Unit Testing</td>
-    <td>Pytest, JUnit</td>
+    <td>Testing</td>
+    <td>Pytest, JUnit, GoogleTest</td>
   </tr>  
   <tr>
     <td>GUI APIs</td>
