@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
   </tr>
     <tr>
     <td>Libraries</td>
-    <td>OpenCV, jQuery, Spring, Beautiful Soup, Matplotlib, Numpy</td>
+    <td>OpenCV, jQuery, Spring, Selenium, Beautiful Soup, Matplotlib, Numpy</td>
   </tr>
   <tr>
     <td>Other</td>
