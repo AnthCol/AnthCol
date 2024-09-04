@@ -28,8 +28,12 @@ You can click the Preview link to take a look at your changes.
   </tr>  
   <tr>
     <td>Build Tools</td>
-    <td>CMake, Gradle, Maven, Makefile, SCons</td>
+    <td>CMake, Gradle, Maven, Makefile, SCons, Vite</td>
   </tr>  
+  <tr>
+    <td>Frontend Frameworks</td>
+    <td>React</td>
+  </tr>
   <tr>
     <td>Version Control</td>
     <td>Git, GitHub, GitLab</td>
