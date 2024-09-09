@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
   </tr>
   <tr>
     <td>Parallelism</td>
-    <td>CUDA, OpenCL, OpenMP, Metal, POSIX Threads, OpenMPI</td>
+    <td>CUDA, OpenCL, OpenMP, Metal, POSIX Threads, Open MPI</td>
   </tr>
     <tr>
     <td>Databases</td>
@@ -56,7 +56,7 @@ You can click the Preview link to take a look at your changes.
   </tr>  
   <tr>
     <td>Operating Systems</td>
-    <td>Linux (Ubuntu, Debian, OpenSUSE-Tumbleweed), Windows, MacOS</td>
+    <td>Linux (Ubuntu, Debian, SUSE), Windows, MacOS</td>
   </tr>  
   <tr>
     <td> IDEs </td>
