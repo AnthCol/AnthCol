@@ -6,8 +6,8 @@ You can click the Preview link to take a look at your changes.
 ## Welcome!
 <p>
 
-### My LinkedIn:
-<!--<a href="https://linkedin.com/in/anthcol" target="blank">
+<!--### My LinkedIn:
+<a href="https://linkedin.com/in/anthcol" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/anthony-colaiacovo-876a061a0/](https://www.linkedin.com/in/anthcol/)" height="30" width="40" /></a>
 </p>-->
 
