@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/anthony-colaiacovo-876a061a0/](https://www.linkedin.com/in/anthcol/)" height="30" width="40" /></a>
 </p>-->
 
-<h3 align="left">Everything I have ever worked with:</h3>
+<h3 align="left">Everything I have ever worked with (even a little bit):</h3>
 
 <table>
   <tr>
