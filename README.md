@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
   </tr>  
   <tr>
     <td> IDEs </td>
-    <td> VS Code, Visual Studio, Xcode </td>
+    <td> VS Code, Visual Studio, Xcode, Pycharm </td>
   </tr>
     <tr>
     <td>Libraries</td>
