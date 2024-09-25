@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <table>
   <tr>
     <td>Languages</td>
-    <td>C++, C, Python, Java, JavaScript, Objective-C, SQL, Bash, GLSL, PowerShell, R</td>
+    <td>C++, C, Python, Java, JavaScript, Typescript, Objective-C, SQL, Bash, GLSL, PowerShell, R</td>
   </tr>
   <tr>
     <td>Parallelism</td>
