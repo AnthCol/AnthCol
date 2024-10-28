@@ -24,15 +24,19 @@ You can click the Preview link to take a look at your changes.
   </tr>
     <tr>
     <td>Databases</td>
-    <td>SQLite3, MySQL</td>
+    <td>SQLite, MariaDB, PostgreSQL</td>
   </tr>  
   <tr>
     <td>Build Tools</td>
-    <td>CMake, Gradle, Maven, Makefile, SCons, Vite</td>
+    <td>Docker, CMake, Gradle, Maven, Makefile, SCons, Vite</td>
   </tr>  
   <tr>
-    <td>Frontend Frameworks</td>
-    <td>React</td>
+    <td>Frontend</td>
+    <td>React, jQuery</td>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td>Spring Boot</td>
   </tr>
   <tr>
     <td>Version Control</td>
@@ -64,11 +68,11 @@ You can click the Preview link to take a look at your changes.
   </tr>
     <tr>
     <td>Libraries</td>
-    <td>OpenCV, jQuery, Spring, Selenium, Beautiful Soup, Matplotlib, Numpy</td>
+    <td>OpenCV, Selenium, Beautiful Soup, Matplotlib, Numpy</td>
   </tr>
   <tr>
     <td>Other</td>
-    <td>Docker, HTML, CSS, SWIG, Slurm, Motorola 68k</td>
+    <td>HTML, CSS, SWIG, Slurm, Motorola 68k</td>
   </tr>  
 
 
