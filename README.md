@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
   </tr>
   <tr>
     <td>Testing</td>
-    <td>Pytest, JUnit, GoogleTest</td>
+    <td>Pytest, Jest, JUnit, GoogleTest</td>
   </tr>  
   <tr>
     <td>GUI APIs</td>
