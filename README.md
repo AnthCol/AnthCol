@@ -16,15 +16,15 @@ You can click the Preview link to take a look at your changes.
 <table>
   <tr>
     <td>Languages</td>
-    <td>C++, C, Python, Java, JavaScript, Typescript, Objective-C, SQL, Bash, GLSL, PowerShell, R</td>
+    <td>C++, C, Python, Java, JavaScript, HTML, CSS, Objective-C, SQL, Bash, GLSL, PowerShell, R</td>
   </tr>
   <tr>
     <td>Parallelism</td>
     <td>CUDA, OpenCL, OpenMP, Metal, POSIX Threads, Open MPI</td>
   </tr>
     <tr>
-    <td>Databases</td>
-    <td>SQLite, MariaDB, PostgreSQL</td>
+    <td>Databases/Databse-like</td>
+    <td>SQLite, MariaDB, PostgreSQL, Pandas</td>
   </tr>  
   <tr>
     <td>Build Tools</td>
@@ -72,7 +72,7 @@ You can click the Preview link to take a look at your changes.
   </tr>
   <tr>
     <td>Other</td>
-    <td>HTML, CSS, SWIG, Slurm, Motorola 68k</td>
+    <td>SWIG, Slurm, Motorola 68k</td>
   </tr>  
 
 
