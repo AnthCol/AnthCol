@@ -20,8 +20,9 @@ Most familiar with:
 - Pytest, Jest, JUnit
 - Docker, Github Actions, CMake, Makefile
 
-Interested in / want to learn more about:
+Outside of being interested in programming and computer science in general, the following topics pique my interest:
 - Compilers & Programming Language implementation
-- LLVM
 - GPU Programming
+- Theory of Computation
+
   
