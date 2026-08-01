@@ -1,6 +1,6 @@
 ## About Me 
 <b>Name:</b> Anthony Colaiacovo<br>
-<b>Occupation:</b> Junior Software Developer @ Clearway Group<br>
+<b>Occupation:</b> Intermediate Software Developer @ Clearway Construction<br>
 <b>Education:</b> Bachelor of Computing in Computer Science (+ minor in Biology) from the University of Guelph<br>
 
 ## Languages & Tools
